@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>MeetingMetrics</title>
+    <link href="https://www.meetingmetrics.net/feed.xml" rel="self" />
+    <link href="https://www.meetingmetrics.net" />
+    <updated>2023-07-16T21:22:32-04:00</updated>
+    <author>
+        <name>Admired Media LLC</name>
+    </author>
+    <id>https://www.meetingmetrics.net</id>
+
+    <entry>
+        <title>Meeting Metrics</title>
+        <author>
+            <name>Admired Media LLC</name>
+        </author>
+        <link href="https://www.meetingmetrics.net/meeting-metrics.html"/>
+        <id>https://www.meetingmetrics.net/meeting-metrics.html</id>
+
+        <updated>2023-07-16T21:22:32-04:00</updated>
+            <summary>
+                <![CDATA[
+                    lorem epsom
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    lorem epsom
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
