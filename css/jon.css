@@ -1,0 +1,20 @@
+
+.jhk-override {
+    background-color: white;
+    padding-top: 10px;;
+}
+.jhk-override p {
+text-align: left;
+}
+
+.jhk-override ul {
+    font-size: 24px;
+list-style: none;
+margin-bottom: 20px;;
+}
+
+.jhk-override li {
+    font-size: 20px;
+    padding-bottom: 20px;;
+
+}
